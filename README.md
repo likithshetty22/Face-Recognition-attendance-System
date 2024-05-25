@@ -60,7 +60,7 @@ pip install -r requirements.txt
 4. **Run the Deployment Script**: To run the face mask detection on a video stream or image, execute the deployment script:
 
     ```bash
-    python deploy.py
+    python main.py
     ```
 
     This script will start the face mask detection process, utilizing your webcam or a specified video file.
