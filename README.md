@@ -50,7 +50,7 @@ pip install -r requirements.txt
 1. **Clone the Repository**: First, clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/face-mask-detection.git
+    git clone https://github.com/likithsshetty/Face-Recognition-Attendance-System.git
     cd face-mask-detection
     ```
 
