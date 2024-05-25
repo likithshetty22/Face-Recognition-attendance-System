@@ -5,7 +5,7 @@ Welcome to the Face Mask Detection Model Deployment repository! This repository 
 ## Prerequisites
 
 Before running the project, ensure you have the following prerequisites installed:
-
+```
 altgraph==0.17.3
 future==0.18.3
 numpy==1.24.1
