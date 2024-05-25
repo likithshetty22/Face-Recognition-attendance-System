@@ -67,19 +67,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-The deployment script, `deploy.py`, supports various options and configurations. For detailed usage instructions, refer to the [Usage section](#usage) in the README file of the repository.
-
-## Development
-
-If you wish to contribute to the project or customize the model, follow the steps outlined in the [Development section](#development) of the README file.
-
-## Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+The deployment script, `main.py`, supports various options and configurations. For detailed usage instructions, refer to the [Usage section](#usage) in the README file of the repository.
 
 ## Acknowledgements
 
