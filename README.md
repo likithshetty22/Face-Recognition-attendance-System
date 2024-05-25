@@ -1,6 +1,3 @@
-Certainly! Below is the markdown code for your README.md file:
-
-```markdown
 # Face Mask Detection Model Deployment
 
 Welcome to the Face Mask Detection Model Deployment repository! This repository contains the code and resources needed to deploy a face mask detection model using Python. The model can detect whether individuals in images or video streams are wearing face masks.
@@ -9,7 +6,6 @@ Welcome to the Face Mask Detection Model Deployment repository! This repository 
 
 Before running the project, ensure you have the following prerequisites installed:
 
-```
 altgraph==0.17.3
 future==0.18.3
 numpy==1.24.1
@@ -25,7 +21,6 @@ pywin32-ctypes==0.2.0
 
 You can install these dependencies using `pip`. For example:
 
-```bash
 pip install altgraph==0.17.3
 pip install future==0.18.3
 pip install numpy==1.24.1
