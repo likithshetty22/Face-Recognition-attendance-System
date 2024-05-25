@@ -87,7 +87,7 @@ This project was inspired by the need for effective face mask detection during t
 
 ## Contact
 
-If you have any questions, issues, or suggestions, feel free to open an issue or contact the repository owner at your-email@example.com.
+If you have any questions, issues, or suggestions, feel free to open an issue or contact the repository owner at likithsuresh22@gmail.com.
 ```
 
 Feel free to adjust any sections or add more details according to your project's requirements.
