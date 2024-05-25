@@ -20,7 +20,7 @@ pywin32-ctypes==0.2.0
 ```
 
 You can install these dependencies using `pip`. For example:
-
+```
 pip install altgraph==0.17.3
 pip install future==0.18.3
 pip install numpy==1.24.1
