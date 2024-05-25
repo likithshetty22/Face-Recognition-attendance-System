@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
     ```bash
     git clone https://github.com/likithsshetty/Face-Recognition-Attendance-System.git
-    cd face-mask-detection
+    cd Face-Recognition-Attendance-System
     ```
 
 2. **Install Required Packages**: Navigate to the project directory and install the required Python packages:
